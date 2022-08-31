@@ -3,3 +3,13 @@
 Descrição do projeto
 ##Autor
 Celso M Kuteken
+##Capturas de Tela
+![}()
+![tela}(
+## Demonstração (Instruções para instalação)
+-É necessário ter o Java versão 17 ou superior instalado
+-Em releases, baixar o executável . jar
+-No windows basta clicar 2X com o mouse
+-No linux transformar o arquivo em executável
+
+
